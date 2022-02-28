@@ -4,7 +4,7 @@
 * Pytest
 
 ## How to run? 
-pytest file_test.py -> Single File Test
+[] pytest file_test.py -> Single File Test 
 
-py.test -k "matching pattern" (eg. method2) -v "verbosity" (you can leave it empty)
+[] py.test -k "matching pattern" (eg. method2) -v "verbosity" (you can leave it empty)
 
