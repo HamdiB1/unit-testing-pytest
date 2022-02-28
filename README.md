@@ -8,3 +8,4 @@
 
 [] py.test -k "matching pattern" (eg. method2) -v "verbosity" (you can leave it empty)
 
+[]  py.test -m two (marker: @pytest.mark.two)
